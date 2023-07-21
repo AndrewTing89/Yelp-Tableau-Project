@@ -3,6 +3,9 @@
 ## Task
 Use the Yelp database to answer the question: "Do reviews get voted useful more often when there are fewer reviews for a business?"
 
+## Dashboard Link
+- https://public.tableau.com/app/profile/andrew.ting1409/viz/TBD5-YelpTableauProject/Story1
+
 ## Tableau Story
 1. Keep "Profiling Yelp's Data" slide, but address the question being answered, what the bins represent and mean, and why we're only looking at the first 15 bins.
 2. Stack the horizontal bars atop each other so its easier to compare. Reorganize so the story is clearer.
