@@ -3,7 +3,7 @@
 ## Task
 Use the Yelp database to answer the question: "Do reviews get voted useful more often when there are fewer reviews for a business?"
 
-## Dashboard Link
+## Tableau Story Link
 - https://public.tableau.com/app/profile/andrew.ting1409/viz/TBD5-YelpTableauProject/Story1
 
 ## Tableau Story
